@@ -1,7 +1,7 @@
 puppet-r10k
 ===========
 
-Install and manage r10k, the killer robot powered puppet deployment tool
+Install and manage [r10k][1], the killer robot powered puppet deployment tool
 
 Synopsis
 --------
@@ -20,3 +20,5 @@ Requirements
 Currently this is only implemented for Debian squeeze. Pull requests gladly accepted!
 
 This also requires the puppetlabs-operations `interval` function
+
+[1]: https://github.com/adrienthebo/r10k
