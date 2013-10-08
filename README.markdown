@@ -3,6 +3,10 @@ puppet-r10k
 
 Install and manage [r10k][1], the killer robot powered puppet deployment tool
 
+## Deprecation warning!
+
+This module is deprecated in favor of [@acidprime's][2] module.  We are no longer supporting this module and recommend you switch as soon as possible.
+
 Synopsis
 --------
 
@@ -22,3 +26,4 @@ Currently this is only implemented for Debian squeeze. Pull requests gladly acce
 This also requires the puppetlabs-operations `interval` function
 
 [1]: https://github.com/adrienthebo/r10k
+[2]: https://github.com/acidprime/r10k
